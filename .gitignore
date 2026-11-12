@@ -9,7 +9,7 @@ env/
 ENV/
 
 # Large datasets and model weights
-*.pkl
+*ocr_insurance_dataset.pkl
 *.pth
 *.pt
 *.ckpt
